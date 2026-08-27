@@ -4,3 +4,6 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="Hello World!" />
+
+<!-- idk this works or not,
+and sorry, this is axml -->
